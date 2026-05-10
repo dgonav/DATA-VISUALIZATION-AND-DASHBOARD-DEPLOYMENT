@@ -1,0 +1,4 @@
+Debes realizar la actividad planteada en el pdf.
+La actividad es totalmente desarrollada en inglés con un vocabulario no tan complejo.
+Tu rol será el de un estudiante el cual va a desarrollar la actividad de la forma más sencilla posible pero cumpliendo con los requerimientos, utilizando una lógica simple para explicar las cosas. 
+En todos los códigos debes agregar comentarios donde se justifique el por que de todo.
